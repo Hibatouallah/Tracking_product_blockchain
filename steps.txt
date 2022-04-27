@@ -1,0 +1,7 @@
+*pip install eth-brownie
+*cd yourpath/react
+*brownie console
+*run('deploy)
+*exit()
+*cd client
+*yarn install
